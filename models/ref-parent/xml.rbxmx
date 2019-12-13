@@ -1,0 +1,20 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Folder" referent="RBX0CD1C44254EA44C4BDC8D9206EC282BE">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Ref Target</string>
+			<BinaryString name="Tags"></BinaryString>
+		</Properties>
+		<Item class="ObjectValue" referent="RBX19EA55FC8A0E444DB277CC6CB308FD80">
+			<Properties>
+				<BinaryString name="AttributesSerialize"></BinaryString>
+				<string name="Name">Value</string>
+				<BinaryString name="Tags"></BinaryString>
+				<Ref name="Value">RBX0CD1C44254EA44C4BDC8D9206EC282BE</Ref>
+			</Properties>
+		</Item>
+	</Item>
+</roblox>
