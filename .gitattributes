@@ -1,0 +1,5 @@
+# Our test files should not have their contents modified by Git.
+*.rbxl binary
+*.rbxlx binary
+*.rbxm binary
+*.rbxmx binary
