@@ -23,21 +23,12 @@ local function addHandle(axisList)
 	table.insert(childrenInOrder, handle)
 end
 
-local function addToListSet(listSet, newValue)
-	local newSet = {}
-	for _, value in ipairs(listSet) do
-		table.insert(newSet, value)
-	end
-	table.insert(newSet, newValue)
-
-	return newSet
-end
-
-local function generateAxes(currentSet, startIndex)
+local function generateAxes(set, startIndex)
 	for i = startIndex, #allAxes do
-		local nextSet = addToListSet(currentSet, allAxes[i])
-		addHandle(nextSet)
-		generateAxes(nextSet, i + 1)
+		table.insert(set, allAxes[i])
+		addHandle(set)
+		generateAxes(set, i + 1)
+		table.remove(set)
 	end
 end
 

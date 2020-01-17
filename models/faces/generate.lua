@@ -26,21 +26,12 @@ local function addHandle(faceList)
 	table.insert(childrenInOrder, handle)
 end
 
-local function addToListSet(listSet, newValue)
-	local newSet = {}
-	for _, value in ipairs(listSet) do
-		table.insert(newSet, value)
-	end
-	table.insert(newSet, newValue)
-
-	return newSet
-end
-
-local function generateFaces(currentSet, startIndex)
+local function generateFaces(set, startIndex)
 	for i = startIndex, #allFaces do
-		local nextSet = addToListSet(currentSet, allFaces[i])
-		addHandle(nextSet)
-		generateFaces(nextSet, i + 1)
+		table.insert(set, allFaces[i])
+		addHandle(set)
+		generateFaces(set, i + 1)
+		table.remove(set)
 	end
 end
 
