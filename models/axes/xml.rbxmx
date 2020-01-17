@@ -1,0 +1,131 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="ArcHandles" referent="RBX29DCBEB46DE940D3B2C8C5228BB66131">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Axes name="Axes">
+				<axes>7</axes>
+			</Axes>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<string name="Name">X, Y, Z</string>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="ArcHandles" referent="RBX0C8BF2A2A853414BA7B7CBFF69584D43">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Axes name="Axes">
+				<axes>1</axes>
+			</Axes>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<string name="Name">X</string>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="ArcHandles" referent="RBXC5D3004E750D4DB5982B6C5762A33BD3">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Axes name="Axes">
+				<axes>3</axes>
+			</Axes>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<string name="Name">X, Y</string>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="ArcHandles" referent="RBXF6840B0A4BE64F898431185AC053DA04">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Axes name="Axes">
+				<axes>5</axes>
+			</Axes>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<string name="Name">X, Z</string>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="ArcHandles" referent="RBX9DAA56BF0D0E419BB834D50F254E7052">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Axes name="Axes">
+				<axes>6</axes>
+			</Axes>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<string name="Name">Y, Z</string>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="ArcHandles" referent="RBX3159577CC7744D06B928028AA2BF83C0">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Axes name="Axes">
+				<axes>2</axes>
+			</Axes>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<string name="Name">Y</string>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="ArcHandles" referent="RBX8B6DB3E74F63451D928E0751D88E1842">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Axes name="Axes">
+				<axes>4</axes>
+			</Axes>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<string name="Name">Z</string>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+</roblox>
