@@ -1,0 +1,1221 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Handles" referent="RBX28E58A2A1BCF43E3B450EE0C6FD4F638">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>0</faces>
+			</Faces>
+			<string name="Name"></string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXBE01E495E45B4D4EBB3A1B05BD262F07">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>1</faces>
+			</Faces>
+			<string name="Name">Right</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXAE323A49711142E692CBE203CEBE1C74">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>3</faces>
+			</Faces>
+			<string name="Name">Right, Top</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX3B686E2DDA374650AF3884D878A4A78A">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>7</faces>
+			</Faces>
+			<string name="Name">Right, Top, Back</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXD6AB16009471455FB2174F3A5A0ED1F7">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>15</faces>
+			</Faces>
+			<string name="Name">Right, Top, Back, Left</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX413E9E337A584AEA8C20FDF5F8B99DDA">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>31</faces>
+			</Faces>
+			<string name="Name">Right, Top, Back, Left, Bottom</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX2E96CA12D4DC44689686F9B768C890C7">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>63</faces>
+			</Faces>
+			<string name="Name">Right, Top, Back, Left, Bottom, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX7B14C0745EA946B3A1A7DC291A735F80">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>47</faces>
+			</Faces>
+			<string name="Name">Right, Top, Back, Left, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX2493C8F4040F4DFDA774309295A3761E">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>23</faces>
+			</Faces>
+			<string name="Name">Right, Top, Back, Bottom</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX113FCF68610D46AD9ABD40DBB93CB35E">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>55</faces>
+			</Faces>
+			<string name="Name">Right, Top, Back, Bottom, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX75C421643AC64FADACFCB9A051D334F3">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>39</faces>
+			</Faces>
+			<string name="Name">Right, Top, Back, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX20D1C3F174A44A7EB6EE4095147B2C0A">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>11</faces>
+			</Faces>
+			<string name="Name">Right, Top, Left</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXEDD2F6458DBB4089AEF942F53A6FEB0A">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>27</faces>
+			</Faces>
+			<string name="Name">Right, Top, Left, Bottom</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX9862C5DA2D1D48A8BA93AAB7455F7795">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>59</faces>
+			</Faces>
+			<string name="Name">Right, Top, Left, Bottom, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX2B8916A6EF6E436B8D9004135F5C1CAF">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>43</faces>
+			</Faces>
+			<string name="Name">Right, Top, Left, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXE49A141648C74528ADF9E39F23C360C2">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>19</faces>
+			</Faces>
+			<string name="Name">Right, Top, Bottom</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX68A4E678EA344EC688F6EBED707A2FF8">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>51</faces>
+			</Faces>
+			<string name="Name">Right, Top, Bottom, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXBD1BA01C833B4B40BD5389C5CEFCA473">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>35</faces>
+			</Faces>
+			<string name="Name">Right, Top, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXDFD34381C5AD41069A2038678C3F848F">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>5</faces>
+			</Faces>
+			<string name="Name">Right, Back</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX0B786E2E726B46BC8207BFFCDC11FE99">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>13</faces>
+			</Faces>
+			<string name="Name">Right, Back, Left</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX3467D881C0BF45AB986D8957F1624585">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>29</faces>
+			</Faces>
+			<string name="Name">Right, Back, Left, Bottom</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX7105F11403DA4776B60B0D23227B4101">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>61</faces>
+			</Faces>
+			<string name="Name">Right, Back, Left, Bottom, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX338A7AFBB20446499C94103452B3DDB8">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>45</faces>
+			</Faces>
+			<string name="Name">Right, Back, Left, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX0697E7E739744F47ABEC66961D4D74AB">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>21</faces>
+			</Faces>
+			<string name="Name">Right, Back, Bottom</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXB0A6A16B711944CFB966854333D1D723">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>53</faces>
+			</Faces>
+			<string name="Name">Right, Back, Bottom, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX06CDCF2DFD944594BD01FF99B3B6F4EB">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>37</faces>
+			</Faces>
+			<string name="Name">Right, Back, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX209B540CE20C4A2CAEAFED7C0B0A5387">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>9</faces>
+			</Faces>
+			<string name="Name">Right, Left</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX219EBF4E1E2C467F821469989BEB8B2C">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>25</faces>
+			</Faces>
+			<string name="Name">Right, Left, Bottom</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX1176176F8CFE4D65A68A3086738E26DE">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>57</faces>
+			</Faces>
+			<string name="Name">Right, Left, Bottom, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX0F384B88D4F04973B8464CFB5AE7F581">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>41</faces>
+			</Faces>
+			<string name="Name">Right, Left, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX09C9D0010CC944DBB8A48E4FDC39AA7E">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>17</faces>
+			</Faces>
+			<string name="Name">Right, Bottom</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXE8BAEB4ABCBB482D8B37585735C06807">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>49</faces>
+			</Faces>
+			<string name="Name">Right, Bottom, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXCCC6EEB8E5C34FFBBD1F834F805C17D5">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>33</faces>
+			</Faces>
+			<string name="Name">Right, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX74BBDAEE47BB43AFA2C4661836DA8789">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>2</faces>
+			</Faces>
+			<string name="Name">Top</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX02F4E34FCDB840E5890E9B74396A39BD">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>6</faces>
+			</Faces>
+			<string name="Name">Top, Back</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXE106197AD80B484392085FA72BFADD3A">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>14</faces>
+			</Faces>
+			<string name="Name">Top, Back, Left</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX67B7D3AA8F524F9880AFB56E003A0F39">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>30</faces>
+			</Faces>
+			<string name="Name">Top, Back, Left, Bottom</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX917A4EE153CC46CB8C2AFDD3BAE04088">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>62</faces>
+			</Faces>
+			<string name="Name">Top, Back, Left, Bottom, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX6A842949E90341E989A74B32A33E7776">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>46</faces>
+			</Faces>
+			<string name="Name">Top, Back, Left, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX5A295F0720AC41A3AE5BEEF3865A2AEB">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>22</faces>
+			</Faces>
+			<string name="Name">Top, Back, Bottom</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX2DED85BD2FD54935B3BB755AB76C1B89">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>54</faces>
+			</Faces>
+			<string name="Name">Top, Back, Bottom, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX83DC6BE0E020487498BC619C3AF7F7B4">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>38</faces>
+			</Faces>
+			<string name="Name">Top, Back, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXC515AAEF41C944A29A757849D3A503DD">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>10</faces>
+			</Faces>
+			<string name="Name">Top, Left</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXC42BD618C33A4EAB9779A353287E3607">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>26</faces>
+			</Faces>
+			<string name="Name">Top, Left, Bottom</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXF426F7BCDE8B443E9FABA5FDBFD1480B">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>58</faces>
+			</Faces>
+			<string name="Name">Top, Left, Bottom, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXAA274732E1064AA1AB2107EA0D2F57B9">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>42</faces>
+			</Faces>
+			<string name="Name">Top, Left, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX9AD909EADF194C9689F498618C4EBB53">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>18</faces>
+			</Faces>
+			<string name="Name">Top, Bottom</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX694A372FD463498F89C924F0DC2AC69E">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>50</faces>
+			</Faces>
+			<string name="Name">Top, Bottom, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX218140410ECB48298280D870A165499F">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>34</faces>
+			</Faces>
+			<string name="Name">Top, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX04BEF2E5F3164EECBCE9BF950FC1B85D">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>4</faces>
+			</Faces>
+			<string name="Name">Back</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXD46E4BD45F3B4900A6705DBD590BE8B3">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>12</faces>
+			</Faces>
+			<string name="Name">Back, Left</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXD4FAAA3560DA4F78A38901E68320848D">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>28</faces>
+			</Faces>
+			<string name="Name">Back, Left, Bottom</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX32F1A02292E24EFDB6E5B75CA5B0769C">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>60</faces>
+			</Faces>
+			<string name="Name">Back, Left, Bottom, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXAB4679E0683F477CAF8BBF1914646345">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>44</faces>
+			</Faces>
+			<string name="Name">Back, Left, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX040381BDE8E64EB8A03368953BED4B2F">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>20</faces>
+			</Faces>
+			<string name="Name">Back, Bottom</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXD6ADE824FF684E018F8D02A775CF6927">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>52</faces>
+			</Faces>
+			<string name="Name">Back, Bottom, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX278B9BA33F24404AAFE32016106C30A8">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>36</faces>
+			</Faces>
+			<string name="Name">Back, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXF89ECCA1EF574CE093DECE16CF902E8E">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>8</faces>
+			</Faces>
+			<string name="Name">Left</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX10C3369A1B5B452A98B5DF46463FF03A">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>24</faces>
+			</Faces>
+			<string name="Name">Left, Bottom</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXF8DADF5C4AED4BE6A31CE176929CF920">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>56</faces>
+			</Faces>
+			<string name="Name">Left, Bottom, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXE092C5D1D86B43D4BFDA62F3C3D32A95">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>40</faces>
+			</Faces>
+			<string name="Name">Left, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBX1CDCEC8FFE4842799D8254C88683B6AE">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>16</faces>
+			</Faces>
+			<string name="Name">Bottom</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXB24A2DA5036F4C27B531751CDB57D1D9">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>48</faces>
+			</Faces>
+			<string name="Name">Bottom, Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+	<Item class="Handles" referent="RBXC127A72BC8C44FF3A51E37EC1FDF7591">
+		<Properties>
+			<Ref name="Adornee">null</Ref>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Color3 name="Color3">
+				<R>0.0509803966</R>
+				<G>0.411764741</G>
+				<B>0.674509823</B>
+			</Color3>
+			<Faces name="Faces">
+				<faces>32</faces>
+			</Faces>
+			<string name="Name">Front</string>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Transparency">0</float>
+			<bool name="Visible">true</bool>
+		</Properties>
+	</Item>
+</roblox>
