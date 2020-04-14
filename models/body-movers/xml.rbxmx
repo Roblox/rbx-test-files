@@ -1,0 +1,117 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="BodyAngularVelocity" referent="RBX9003764267654827A052CB50A5A82113">
+		<Properties>
+			<Vector3 name="AngularVelocity">
+				<X>0</X>
+				<Y>2</Y>
+				<Z>0</Z>
+			</Vector3>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Vector3 name="MaxTorque">
+				<X>4000</X>
+				<Y>4000</Y>
+				<Z>4000</Z>
+			</Vector3>
+			<string name="Name">BodyAngularVelocity</string>
+			<float name="P">1250</float>
+			<BinaryString name="Tags"></BinaryString>
+		</Properties>
+	</Item>
+	<Item class="BodyForce" referent="RBX9836B7E6BCEC4988A623E52BD8473344">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Vector3 name="Force">
+				<X>0</X>
+				<Y>1</Y>
+				<Z>0</Z>
+			</Vector3>
+			<string name="Name">BodyForce</string>
+			<BinaryString name="Tags"></BinaryString>
+		</Properties>
+	</Item>
+	<Item class="BodyGyro" referent="RBXC0042F84C4AF4F92B97F700A312897C0">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<CoordinateFrame name="CFrame">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>1</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>1</R22>
+			</CoordinateFrame>
+			<float name="D">500</float>
+			<Vector3 name="MaxTorque">
+				<X>400000</X>
+				<Y>0</Y>
+				<Z>400000</Z>
+			</Vector3>
+			<string name="Name">BodyGyro</string>
+			<float name="P">3000</float>
+			<BinaryString name="Tags"></BinaryString>
+		</Properties>
+	</Item>
+	<Item class="BodyPosition" referent="RBXA24B8B3CA786491E9CB1DD1A771A4D82">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<float name="D">1250</float>
+			<Vector3 name="MaxForce">
+				<X>4000</X>
+				<Y>4000</Y>
+				<Z>4000</Z>
+			</Vector3>
+			<string name="Name">BodyPosition</string>
+			<float name="P">10000</float>
+			<Vector3 name="Position">
+				<X>0</X>
+				<Y>50</Y>
+				<Z>0</Z>
+			</Vector3>
+			<BinaryString name="Tags"></BinaryString>
+		</Properties>
+	</Item>
+	<Item class="BodyThrust" referent="RBXBE06AE7262684C4ABBFCC998B9EF9104">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Vector3 name="Force">
+				<X>0</X>
+				<Y>1</Y>
+				<Z>0</Z>
+			</Vector3>
+			<Vector3 name="Location">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+			</Vector3>
+			<string name="Name">BodyThrust</string>
+			<BinaryString name="Tags"></BinaryString>
+		</Properties>
+	</Item>
+	<Item class="BodyVelocity" referent="RBX6A900EA3B07F4354B140F7982597D60E">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<Vector3 name="MaxForce">
+				<X>4000</X>
+				<Y>4000</Y>
+				<Z>4000</Z>
+			</Vector3>
+			<string name="Name">BodyVelocity</string>
+			<float name="P">1250</float>
+			<BinaryString name="Tags"></BinaryString>
+			<Vector3 name="Velocity">
+				<X>0</X>
+				<Y>2</Y>
+				<Z>0</Z>
+			</Vector3>
+		</Properties>
+	</Item>
+</roblox>
