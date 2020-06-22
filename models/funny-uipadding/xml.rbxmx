@@ -1,0 +1,28 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="UIPadding" referent="RBXCFF36E654BAD457CA629C3490AA77525">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">UIPadding</string>
+			<UDim name="PaddingBottom">
+				<S>666</S>
+				<O>420</O>
+			</UDim>
+			<UDim name="PaddingLeft">
+				<S>1337</S>
+				<O>42</O>
+			</UDim>
+			<UDim name="PaddingRight">
+				<S>-666</S>
+				<O>-420</O>
+			</UDim>
+			<UDim name="PaddingTop">
+				<S>-1337</S>
+				<O>-42</O>
+			</UDim>
+			<BinaryString name="Tags"></BinaryString>
+		</Properties>
+	</Item>
+</roblox>
