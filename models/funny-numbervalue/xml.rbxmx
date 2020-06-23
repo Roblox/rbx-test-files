@@ -1,0 +1,13 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="NumberValue" referent="RBXD3E7FE3C397F441F891D84ACF519F653">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<double name="Value">1.2345600000000001017</double>
+		</Properties>
+	</Item>
+</roblox>
