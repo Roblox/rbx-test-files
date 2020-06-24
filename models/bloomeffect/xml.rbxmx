@@ -1,0 +1,16 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="BloomEffect" referent="RBX16A15610D7FE410D870D032B2B2C874A">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<bool name="Enabled">true</bool>
+			<float name="Intensity">0.449999988</float>
+			<string name="Name">Bloom</string>
+			<float name="Size">24.7000008</float>
+			<BinaryString name="Tags"></BinaryString>
+			<float name="Threshold">2.28500009</float>
+		</Properties>
+	</Item>
+</roblox>
