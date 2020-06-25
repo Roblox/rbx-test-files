@@ -1,0 +1,62 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="RayValue" referent="RBX831D759517D641DC83A2B6D7B05E60AA">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Ray name="Value">
+				<origin>
+					<X>1</X>
+					<Y>2</Y>
+					<Z>3</Z>
+				</origin>
+				<direction>
+					<X>4</X>
+					<Y>5</Y>
+					<Z>6</Z>
+				</direction>
+			</Ray>
+		</Properties>
+	</Item>
+	<Item class="RayValue" referent="RBXCFE1E3374D5C4198B59AEBF9006133D4">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Ray name="Value">
+				<origin>
+					<X>1</X>
+					<Y>2</Y>
+					<Z>3</Z>
+				</origin>
+				<direction>
+					<X>4</X>
+					<Y>5</Y>
+					<Z>6</Z>
+				</direction>
+			</Ray>
+		</Properties>
+	</Item>
+	<Item class="RayValue" referent="RBX8864BF48FA804EF59F2EBD0DEBB4143E">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Ray name="Value">
+				<origin>
+					<X>1</X>
+					<Y>2</Y>
+					<Z>3</Z>
+				</origin>
+				<direction>
+					<X>4</X>
+					<Y>5</Y>
+					<Z>6</Z>
+				</direction>
+			</Ray>
+		</Properties>
+	</Item>
+</roblox>
