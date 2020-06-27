@@ -1,0 +1,41 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Color3Value" referent="RBX497EC42EC70D4858B849707B6E2F9249">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>0</R>
+				<G>0.313725501</G>
+				<B>0.498039216</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBXEFB0D2A160C14708A9DC655CEAF11673">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>1</R>
+				<G>0.70588237</G>
+				<B>0.0784313753</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBX2C649920C0784EDD8CBC37CF4D31BDD1">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>2.00784326</R>
+				<G>1.0196079</G>
+				<B>0.0392156877</B>
+			</Color3>
+		</Properties>
+	</Item>
+</roblox>

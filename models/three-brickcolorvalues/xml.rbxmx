@@ -1,0 +1,29 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="BrickColorValue" referent="RBX7946478130C54E289D7DCBEF05CB1DB6">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<int name="Value">1004</int>
+		</Properties>
+	</Item>
+	<Item class="BrickColorValue" referent="RBXBB920D2CE0E54695915E5998FAB24964">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<int name="Value">37</int>
+		</Properties>
+	</Item>
+	<Item class="BrickColorValue" referent="RBX0D6BBC2B84754AE5AA546DB9AD0B57E5">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<int name="Value">1010</int>
+		</Properties>
+	</Item>
+</roblox>
