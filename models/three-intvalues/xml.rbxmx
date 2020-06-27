@@ -1,0 +1,29 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="IntValue" referent="RBXE728116512344F188D1F2106ED85A4F6">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value=1234567</string>
+			<BinaryString name="Tags"></BinaryString>
+			<int64 name="Value">1234567</int64>
+		</Properties>
+	</Item>
+	<Item class="IntValue" referent="RBX66C806FB47044298B79570043D923467">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value=1337</string>
+			<BinaryString name="Tags"></BinaryString>
+			<int64 name="Value">1337</int64>
+		</Properties>
+	</Item>
+	<Item class="IntValue" referent="RBXA6E4A5CE611546A8BD7E197F29EB5BD0">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value=-7654321</string>
+			<BinaryString name="Tags"></BinaryString>
+			<int64 name="Value">-7654321</int64>
+		</Properties>
+	</Item>
+</roblox>
