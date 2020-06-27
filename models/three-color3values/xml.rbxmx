@@ -2,39 +2,219 @@
 	<Meta name="ExplicitAutoJoints">true</Meta>
 	<External>null</External>
 	<External>nil</External>
-	<Item class="Color3Value" referent="RBXF243ECE596934B479EB09B1EBD27E18B">
+	<Item class="Color3Value" referent="RBXA2CCE823BA5D42C2AED68D7532EE64B6">
 		<Properties>
 			<BinaryString name="AttributesSerialize"></BinaryString>
 			<string name="Name">Value</string>
 			<BinaryString name="Tags"></BinaryString>
 			<Color3 name="Value">
-				<R>0.00392156886</R>
-				<G>0.00784313772</G>
-				<B>0.0117647061</B>
+				<R>0.0588235296</R>
+				<G>0</G>
+				<B>0</B>
 			</Color3>
 		</Properties>
 	</Item>
-	<Item class="Color3Value" referent="RBX088D5A38398E4646A0CD9A17DB64D4D1">
+	<Item class="Color3Value" referent="RBXF57BD440F4D142C789B2E180E3542628">
 		<Properties>
 			<BinaryString name="AttributesSerialize"></BinaryString>
 			<string name="Name">Value</string>
 			<BinaryString name="Tags"></BinaryString>
 			<Color3 name="Value">
-				<R>0.0156862754</R>
-				<G>0.0196078438</G>
-				<B>0.0235294122</B>
+				<R>0</R>
+				<G>0.0588235296</G>
+				<B>0</B>
 			</Color3>
 		</Properties>
 	</Item>
-	<Item class="Color3Value" referent="RBX1F815E77084B486691FC0DA1B776310D">
+	<Item class="Color3Value" referent="RBX62AF7DEE73354C698534D0580BD0ADF2">
 		<Properties>
 			<BinaryString name="AttributesSerialize"></BinaryString>
 			<string name="Name">Value</string>
 			<BinaryString name="Tags"></BinaryString>
 			<Color3 name="Value">
-				<R>0.0274509806</R>
-				<G>0.0313725509</G>
-				<B>0.0352941193</B>
+				<R>0</R>
+				<G>0</G>
+				<B>0.0588235296</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBXFE3D3B4B98754B55BE688B4EEA537F64">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>0.121568628</R>
+				<G>0</G>
+				<B>0</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBXF6E59FABAB33480A85E1F26EF78F982A">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>0</R>
+				<G>0.121568628</G>
+				<B>0</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBX5737F284197A431981D31E8E5353FCB8">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>0</R>
+				<G>0</G>
+				<B>0.121568628</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBXB19A51C5A7F140209FFB2F4516C49D78">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>0.247058824</R>
+				<G>0</G>
+				<B>0</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBXAA4EBD33976F43418F4E5B10B49D3DB6">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>0</R>
+				<G>0.247058824</G>
+				<B>0</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBXDCA2A2A30E474E869B79069C116909B1">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>0</R>
+				<G>0</G>
+				<B>0.247058824</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBXFF26F749E336460EAEADE5A8F6620241">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>0.498039216</R>
+				<G>0</G>
+				<B>0</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBX235C523A8FD84A2BB37529F72DDDC1BC">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>0</R>
+				<G>0.498039216</G>
+				<B>0</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBXA6A21C02D4AA4DD48135622D6F820AD9">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>0</R>
+				<G>0</G>
+				<B>0.498039216</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBX6B8FB872634A4AD3BC2F0925B46571B5">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>1</R>
+				<G>0</G>
+				<B>0</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBX8B837E33E3C2456480A764D081AA4C19">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>0</R>
+				<G>1</G>
+				<B>0</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBXCCA5EDA2FA1348BC890EA2EE31715AD4">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>0</R>
+				<G>0</G>
+				<B>1</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBX02155E501D194A5BB741F738C4A91D52">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>0</R>
+				<G>0.501960814</G>
+				<B>1.00392163</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBXCBC0DDB0B2CA4A19B7125690871E1603">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>0.501960814</R>
+				<G>1.00392163</G>
+				<B>1.50588238</B>
+			</Color3>
+		</Properties>
+	</Item>
+	<Item class="Color3Value" referent="RBX57265940F11E46D1B2CBDBB3A2EFD42D">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Color3 name="Value">
+				<R>1.00392163</R>
+				<G>1.50588238</G>
+				<B>2.00784326</B>
 			</Color3>
 		</Properties>
 	</Item>
