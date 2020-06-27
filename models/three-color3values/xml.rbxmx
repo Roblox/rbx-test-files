@@ -8,8 +8,8 @@
 			<string name="Name">Value</string>
 			<BinaryString name="Tags"></BinaryString>
 			<Color3 name="Value">
-				<R>1</R>
-				<G>0.498039216</G>
+				<R>0</R>
+				<G>0.313725501</G>
 				<B>0.498039216</B>
 			</Color3>
 		</Properties>
@@ -20,9 +20,9 @@
 			<string name="Name">Value</string>
 			<BinaryString name="Tags"></BinaryString>
 			<Color3 name="Value">
-				<R>0.498039216</R>
-				<G>1</G>
-				<B>0.498039216</B>
+				<R>1</R>
+				<G>0.70588237</G>
+				<B>0.0784313753</B>
 			</Color3>
 		</Properties>
 	</Item>
@@ -32,21 +32,9 @@
 			<string name="Name">Value</string>
 			<BinaryString name="Tags"></BinaryString>
 			<Color3 name="Value">
-				<R>0.498039216</R>
-				<G>0.498039216</G>
-				<B>1</B>
-			</Color3>
-		</Properties>
-	</Item>
-	<Item class="Color3Value" referent="RBX54770B1505804878BFF9159AEEA04658">
-		<Properties>
-			<BinaryString name="AttributesSerialize"></BinaryString>
-			<string name="Name">Value</string>
-			<BinaryString name="Tags"></BinaryString>
-			<Color3 name="Value">
-				<R>1</R>
-				<G>1.50196075</G>
-				<B>2.00392151</B>
+				<R>2.00784326</R>
+				<G>1.0196079</G>
+				<B>0.0392156877</B>
 			</Color3>
 		</Properties>
 	</Item>
