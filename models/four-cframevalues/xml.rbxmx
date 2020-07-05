@@ -1,0 +1,89 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="CFrameValue" referent="RBX61DA66AAC92A44D3B649C0957297B2E0">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Axis-aligned 2</string>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>12</X>
+				<Y>0.5</Y>
+				<Z>-5</Z>
+				<R00>0</R00>
+				<R01>0</R01>
+				<R02>1</R02>
+				<R10>-1</R10>
+				<R11>0</R11>
+				<R12>0</R12>
+				<R20>-0</R20>
+				<R21>-1</R21>
+				<R22>0</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX77BCE1AE96EC4CC69E7D43978BCA0416">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Inverted</string>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>0.707106769</R00>
+				<R01>0.408248276</R01>
+				<R02>-0.577350259</R02>
+				<R10>0.707106769</R10>
+				<R11>-0.408248246</R11>
+				<R12>0.577350318</R12>
+				<R20>0</R20>
+				<R21>0.816496551</R21>
+				<R22>0.577350259</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX18C7FCEE9D11488C8BB7B0656430570C">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Axis-aligned</string>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>11</X>
+				<Y>0.500001013</Y>
+				<Z>-5</Z>
+				<R00>1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>1</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>1</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+	<Item class="CFrameValue" referent="RBX052D86A651894EC2B633944E790269B4">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Non-aligned</string>
+			<BinaryString name="Tags"></BinaryString>
+			<CoordinateFrame name="Value">
+				<X>12</X>
+				<Y>0.5</Y>
+				<Z>-5</Z>
+				<R00>0.621804118</R00>
+				<R01>0.264001042</R01>
+				<R02>0.737335205</R02>
+				<R10>-0.709356189</R10>
+				<R11>0.588863313</R11>
+				<R12>0.387367994</R12>
+				<R20>-0.331924081</R20>
+				<R21>-0.76390028</R21>
+				<R22>0.553428352</R22>
+			</CoordinateFrame>
+		</Properties>
+	</Item>
+</roblox>
