@@ -1,0 +1,41 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Vector3Value" referent="RBX8373735B8810456D9C4C77F67F265451">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value=&lt;1337, nan, inf&gt;</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Vector3 name="Value">
+				<X>1337</X>
+				<Y>NAN</Y>
+				<Z>INF</Z>
+			</Vector3>
+		</Properties>
+	</Item>
+	<Item class="Vector3Value" referent="RBX1104CADC85D3479F8F02116B191737EC">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value=&lt;1, 0.5, 0.15625&gt;</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Vector3 name="Value">
+				<X>1</X>
+				<Y>0.5</Y>
+				<Z>0.15625</Z>
+			</Vector3>
+		</Properties>
+	</Item>
+	<Item class="Vector3Value" referent="RBX66D4C886074A496A99AB5BE4D79F635C">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<string name="Name">Value=&lt;-12345, -inf, 54321&gt;</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Vector3 name="Value">
+				<X>-12345</X>
+				<Y>-INF</Y>
+				<Z>54321</Z>
+			</Vector3>
+		</Properties>
+	</Item>
+</roblox>
