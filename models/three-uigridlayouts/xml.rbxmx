@@ -2,57 +2,7 @@
 	<Meta name="ExplicitAutoJoints">true</Meta>
 	<External>null</External>
 	<External>nil</External>
-	<Item class="UIGridLayout" referent="RBXA79DBDCD3E8C4799AA6B48C2982DA5FE">
-		<Properties>
-			<BinaryString name="AttributesSerialize"></BinaryString>
-			<UDim2 name="CellPadding">
-				<XS>0</XS>
-				<XO>0</XO>
-				<YS>-0.100000001</YS>
-				<YO>100</YO>
-			</UDim2>
-			<UDim2 name="CellSize">
-				<XS>0.200000003</XS>
-				<XO>-150</XO>
-				<YS>-0.300000012</YS>
-				<YO>300</YO>
-			</UDim2>
-			<token name="FillDirection">0</token>
-			<int name="FillDirectionMaxCells">0</int>
-			<token name="HorizontalAlignment">1</token>
-			<string name="Name">UIGridLayout</string>
-			<token name="SortOrder">0</token>
-			<token name="StartCorner">0</token>
-			<BinaryString name="Tags"></BinaryString>
-			<token name="VerticalAlignment">1</token>
-		</Properties>
-	</Item>
-	<Item class="UIGridLayout" referent="RBX799E312E60124DB5BAA4D901BF240710">
-		<Properties>
-			<BinaryString name="AttributesSerialize"></BinaryString>
-			<UDim2 name="CellPadding">
-				<XS>0.400000006</XS>
-				<XO>-500</XO>
-				<YS>-0.5</YS>
-				<YO>600</YO>
-			</UDim2>
-			<UDim2 name="CellSize">
-				<XS>0.600000024</XS>
-				<XO>-1200</XO>
-				<YS>-0.699999988</YS>
-				<YO>1000</YO>
-			</UDim2>
-			<token name="FillDirection">0</token>
-			<int name="FillDirectionMaxCells">0</int>
-			<token name="HorizontalAlignment">1</token>
-			<string name="Name">UIGridLayout</string>
-			<token name="SortOrder">0</token>
-			<token name="StartCorner">0</token>
-			<BinaryString name="Tags"></BinaryString>
-			<token name="VerticalAlignment">1</token>
-		</Properties>
-	</Item>
-	<Item class="UIGridLayout" referent="RBX05CB89DCBB7D4137870A8C237314897B">
+	<Item class="UIGridLayout" referent="RBX62737E9F9687471485543653303A28B6">
 		<Properties>
 			<BinaryString name="AttributesSerialize"></BinaryString>
 			<UDim2 name="CellPadding">
@@ -75,6 +25,56 @@
 			<token name="StartCorner">0</token>
 			<BinaryString name="Tags"></BinaryString>
 			<token name="VerticalAlignment">1</token>
+		</Properties>
+	</Item>
+	<Item class="UIGridLayout" referent="RBX55EC1D0F614C40299993F45807F8526A">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<UDim2 name="CellPadding">
+				<XS>0</XS>
+				<XO>0</XO>
+				<YS>-0.100000001</YS>
+				<YO>100</YO>
+			</UDim2>
+			<UDim2 name="CellSize">
+				<XS>0.200000003</XS>
+				<XO>-150</XO>
+				<YS>-0.300000012</YS>
+				<YO>300</YO>
+			</UDim2>
+			<token name="FillDirection">1</token>
+			<int name="FillDirectionMaxCells">0</int>
+			<token name="HorizontalAlignment">0</token>
+			<string name="Name">UIGridLayout</string>
+			<token name="SortOrder">2</token>
+			<token name="StartCorner">1</token>
+			<BinaryString name="Tags"></BinaryString>
+			<token name="VerticalAlignment">2</token>
+		</Properties>
+	</Item>
+	<Item class="UIGridLayout" referent="RBX271BFFD417AC4FB1B271E28D7A89E764">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<UDim2 name="CellPadding">
+				<XS>0.400000006</XS>
+				<XO>-500</XO>
+				<YS>-0.5</YS>
+				<YO>600</YO>
+			</UDim2>
+			<UDim2 name="CellSize">
+				<XS>0.600000024</XS>
+				<XO>-1200</XO>
+				<YS>-0.699999988</YS>
+				<YO>1000</YO>
+			</UDim2>
+			<token name="FillDirection">1</token>
+			<int name="FillDirectionMaxCells">0</int>
+			<token name="HorizontalAlignment">2</token>
+			<string name="Name">UIGridLayout</string>
+			<token name="SortOrder">0</token>
+			<token name="StartCorner">2</token>
+			<BinaryString name="Tags"></BinaryString>
+			<token name="VerticalAlignment">0</token>
 		</Properties>
 	</Item>
 </roblox>
